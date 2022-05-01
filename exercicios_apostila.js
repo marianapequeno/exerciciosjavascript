@@ -162,7 +162,7 @@ if(ano2%4===0 && ano2%100!==0 || ano2%400===0){
 
 /*22*/
 let ano3 = Number.parseInt(prompt(`Digite o ano de nascimento: `)); //2010
-let idade2 = 2022-ano; //12
+let idade2 = 2022-ano3; //12
 let sexo1 = prompt(`Digite o sexo: `); //m
 console.log(`Nasceu em ${ano3}.`);
 console.log(`${idade2} anos.`); 
