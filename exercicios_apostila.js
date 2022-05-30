@@ -3,7 +3,9 @@
 
 //PASSO 01 - SEQUÊNCIAS BÁSICAS: 
 /*1*/
-console.log(`Olá, mundo!`);
+console.log(`Olá, mundo!`); 
+//OU
+document.write("Olá, mundo!");
 
 /*2*/
 let nome1 = prompt(`Digite seu nome: `);
